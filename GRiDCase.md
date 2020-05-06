@@ -1,0 +1,20 @@
+# GRiDCase - IBM PC совместимый ноутбук от GRiD
+
+https://www.youtube.com/watch?v=OoZAdkxdjb8
+
+1. Анонс компьютеров GRiD Compass 1139, InfoWorld, декабрь 1984 года: [сссылка](https://books.google.ru/books?id=qy4EAAAAMBAJ&pg=PA15&lpg=PA15&dq=grid+compass+1139&source=bl&ots=URnUVRZmja&sig=ACfU3U1g5z4gS-KCy514srAEOUDexaHuoA&hl=ru&sa=X&ved=2ahUKEwjjmsXd3tjoAhVD4KYKHUNCBxkQ6AEwEXoECAwQLw#v=onepage&q=grid%20compass%201139&f=false)
+2. Самое первое из найденных упоминание GRiDCase в журналах, со стоимостью компьютера и некоторых опций, ComputerWorld, апрель 1985 года: [ссылка](https://books.google.ru/books?id=XxS89r_AA_0C&pg=PA72&lpg=PA72&dq=gridcase&source=bl&ots=31QCZt-3v5&sig=ACfU3U2vcUBGwEQNMYgIfTvLdloGc0s9iA&hl=ru&sa=X&ved=2ahUKEwiXkbn1p9boAhWjysQBHXitBFo4FBDoATAAegQICxAr#v=onepage&q=gridcase&f=false)
+3. Информация о продажах персональных компьютеров, из которой был составлен график в видео, сайт retrocomputing.net: [ссылка](http://www.retrocomputing.net/info/siti/total_share.html)
+4. Анонс GRiDCase, PC Mag, июль 1985 года: [ссылка](https://books.google.ru/books?id=SprPDrQRvM8C&pg=PA62&lpg=PA62&dq=gridcase&source=bl&ots=oJ6oQQFVF7&sig=ACfU3U3u-ekVcDWPZoZ1AdIVBmDrTGVsyg&hl=ru&sa=X&ved=2ahUKEwiXkbn1p9boAhWjysQBHXitBFo4FBDoATADegQICxA5#v=onepage&q=gridcase&f=false)
+5. Подробный обзор GRiDCase 2 со стоимостью некоторых конфигураций и аксессуаров, InfoWorld, июнь 1986 года: [ссылка](https://books.google.ru/books?id=VC8EAAAAMBAJ&pg=PA54&lpg=PA54&dq=gridcase&source=bl&ots=U9vMoH0Bdv&sig=ACfU3U2jUEmYla4UOhw-BS6FEINXad4jDg&hl=ru&sa=X&ved=2ahUKEwiczN_np9boAhWRfZoKHTGSCFgQ6AEwFHoECAsQLA#v=onepage&q=gridcase&f=false)
+6. Обзор GRiDCase 3 Plus, со стоимостью некоторых опций, PC mag, декабрь 1986 года: [ссылка](https://books.google.ru/books?id=gX-RGEWcpv8C&pg=PA132&lpg=PA132&dq=gridcase&source=bl&ots=whG9aYBWPD&sig=ACfU3U3WQicQ-_hJqBW-sLaEAW3qVmZiXg&hl=ru&sa=X&ved=2ahUKEwj7sJ7sp9boAhVKaJoKHSWjCdA4ChDoATAGegQICxBP#v=onepage&q=gridcase&f=false)
+7. Обзор GRiDCase 3 Plus, со стоимостью некоторых опций, PC mag, июль 1987 года: [ссылка](https://books.google.ru/books?id=LRBokcwLB70C&pg=PA240&lpg=PA240&dq=gridcase&source=bl&ots=LheScRc127&sig=ACfU3U0pjtrcMRUPpTcg0qoyDg-s-cNafw&hl=ru&sa=X&ved=2ahUKEwj7sJ7sp9boAhVKaJoKHSWjCdA4ChDoATAJegQICxBW#v=onepage&q=gridcase&f=false)
+8. Сравнение 11 моделей ноутбуков, в том числе GRiDCase 3 Plus, InfoWorld, сентябрь 1987: [ссылка](https://books.google.ru/books?id=sTsEAAAAMBAJ&pg=PA59&lpg=PA59&dq=gridcase&source=bl&ots=ZDPJv7nS_C&sig=ACfU3U3DzPXvmrd2wN4BaByFsLZ7IdK_rg&hl=ru&sa=X&ved=2ahUKEwj7sJ7sp9boAhVKaJoKHSWjCdA4ChDoATACegQICxBB#v=onepage&q=gridcase&f=false)
+9. Транскрипция записи встречи сотрудников GRiD Systems в 2006 году "Pioneering the Laptop: Engineering the GRiD Compass" [ссылка](https://www.sigcis.org/weissberger_grid_full)
+10. Рекламные буклеты и информация о Toshiba T1100: [ссылка](http://minuszerodegrees.net/manuals/Toshiba/Toshiba.htm#1100)
+11. Новость о покупке GRiD Systems компанией Tandy, Computerworld, март 1988: [ссылка](https://books.google.ru/books?id=OQKDdYfjjj8C&pg=PP2&lpg=PP2&dq=tandy+to+buy+grid+systems&source=bl&ots=njxtsl0Ix9&sig=ACfU3U2oJ74SBB_3Z-rkONAHXh1m6jugtQ&hl=ru&sa=X&ved=2ahUKEwiUwqz0wuDoAhWHKZoKHSKbBd0Q6AEwEXoECAcQPQ#v=onepage&q=tandy%20to%20buy%20grid%20systems&f=false)
+
+### Невошедшие в обзор материалы:
+
+1. Иск от Tandy к Toshiba о нарушении их патента на портативный компьютер, Computerworld, май 1989: [ссылка](https://books.google.ru/books?id=mDAEAAAAMBAJ&pg=PT7&lpg=PT7&dq=Tandy+to+Buy+Grid+Systems&source=bl&ots=M8ez0SGfuy&sig=ACfU3U1EAOnOHNpfCwlyKk7e2xlWt2dcew&hl=ru&sa=X&ved=2ahUKEwiV-OGowuDoAhUF5KYKHW0ZDV0Q6AEwD3oECAgQLw#v=onepage&q=Tandy%20to%20Buy%20Grid%20Systems&f=false)
+2. Информация о ноутбуке GRiDCase 1530, следующем поколении GRiDCase на процессоре Intel 80286, Infoworld, май 1988: [ссылка](https://books.google.ru/books?id=5D4EAAAAMBAJ&pg=PA59&lpg=PA59&dq=gridcase&source=bl&ots=Kd6MQbXp7I&sig=ACfU3U2_PJeAwVOBHJPjckjyhsKo0H50BQ&hl=ru&sa=X&ved=2ahUKEwiczN_np9boAhWRfZoKHTGSCFgQ6AEwFnoECAsQMw#v=onepage&q=gridcase&f=false)
