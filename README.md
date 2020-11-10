@@ -6,5 +6,5 @@
 
 ### Список видео
 
-[AST PenExec. Ноутбук-трансформер за $3000 из 1992](./AST%20PenExec.md)
-[GRiDCase - IBM PC совместимый ноутбук от GRiD](./GRiDCase.md)
+* [AST PenExec. Ноутбук-трансформер за $3000 из 1992](./AST%20PenExec.md)
+* [GRiDCase - IBM PC совместимый ноутбук от GRiD](./GRiDCase.md)
